@@ -1,6 +1,7 @@
 import string
 import random
 
+
 numberAndLength = []
 generatedPasswords = []
 alpha = list(string.ascii_letters+string.digits)
