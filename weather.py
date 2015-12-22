@@ -18,7 +18,7 @@ def checkIfValidZip(choice):
             found = True
             zip_ = choice
             break
-    if (found == False):
+    if found == False:
         choice = input("You did not enter a valid zip code. Please try again: ")
         checkIfValidZip(choice)
 
