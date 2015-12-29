@@ -5,3 +5,7 @@
 12/21/2015
 
    *Weather: User can either give a city or zip code and receive weather conditions and temperature for that location. I hope to expand the functionality of this program greatly.
+
+12/29/2015
+
+    *Imgur Downloader: User provides subreddits that they want images downloaded from. If a post does not meet a minimum score, it will be ignored
