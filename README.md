@@ -8,4 +8,4 @@
 
 12/29/2015
 
-    *Imgur Downloader: User provides subreddits that they want images downloaded from. If a post does not meet a minimum score, it will be ignored
+  *Imgur Downloader: User provides subreddits that they want images downloaded from. If a post does not meet a minimum score, it will be ignored
